@@ -18,6 +18,7 @@ RUN set -x \
                              coreutils \
                              moreutils \
                              git \
+                             yum  \
                              curl \
                              wget \
                              tzdata \
